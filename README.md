@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aayush Kr Shukla</h1>
-<h3 align="center">A Fullstack Developer from India</h3>
+<h3 align="center">A Fullstack Developer</h3>
 
-- 🌱 I’m currently learning **Ruby on Rails and Blender**
+- 🌱 I’m currently learning **Serverless Architecture**
 
-- 💬 Ask me about **Javascript, ReactJs**
+- 💬 Ask me about **Javascript, Typescript**
 
 - 📫 How to reach me **aksprince2@gmail.com**
 
